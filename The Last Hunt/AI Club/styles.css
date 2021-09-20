@@ -1,0 +1,51 @@
+*{
+    background-color: #202124;
+    
+    box-sizing: border-box
+
+}
+body{
+    font-family: arial,sans-serif;
+}
+#logo{
+    width: 90px;
+}
+.navbar .navbar-brand{
+    font-size:40px;
+  color: aliceblue;
+  font-weight:bold;
+}
+
+
+#offcanvasNavbarLabel{
+    color: white;
+}
+.offcanvas-body .nav-item a{
+    color: white;
+} 
+
+.content{
+    padding-top: 80px;
+    
+}
+.content >h1{
+    font-size: 90px;
+    font-weight: 400;
+    color: white;
+    letter-spacing: .2px;
+}
+.content >h4{
+    padding-top:20px;
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+    letter-spacing: .2px;
+}
+
+.yellow{
+    background: yellow;
+    z-index: 2;
+}
+.carousel{
+    height: 80px;
+}
